@@ -1,0 +1,14 @@
+[package]
+name = "pcm"
+version = "0.1.0"
+authors = ["DragstylerNL <dragstylernl@gmail.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+device_query = "1.1.1"
+anyhow = "1.0.68"
+toml = "0.5.10"
+serde = "1.0.151"
+serde_derive = "1.0.151"

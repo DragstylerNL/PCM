@@ -1,0 +1,7 @@
+[[commands]]
+command = "STEAM"
+path = 'C:\Program Files (x86)\Steam\Steam.exe'
+
+[[commands]]
+command = "GOOGLE"
+path = 'C:\Program Files (x86)\Google\Chrome\Application\Chrome.exe'
