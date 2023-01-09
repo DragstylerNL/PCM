@@ -3,8 +3,8 @@ use std::collections::HashMap;
 use std::fs;
 use toml;
 
-mod command_managers;
 mod input_reader;
+mod command_managers;
 
 fn main() -> anyhow::Result<()> {
     // INIT SETUP
